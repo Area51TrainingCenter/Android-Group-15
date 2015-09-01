@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mapas</string>
+    <string name="action_reverse_geocoding">Obtener dirección</string>
+    <string name="no_last_location">Obtén tu ubicación primero</string>
+    <string name="connection_error">Ha ocurrido un problema de conexión</string>
+    <string name="parse_error">Respuesta del servidor inválida</string>
+    <string name="getting_location">Obteniendo ubicación&#8230;</string>
+
+    <!--Deben reeemplazar este valor con la llave del API-->
+    <string name="maps_api_key">Reemplazar este valor</string>
+
+</resources>

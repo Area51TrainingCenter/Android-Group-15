@@ -1,0 +1,3 @@
+Google developer console: https://console.developers.google.com
+Google Maps: https://developers.google.com/maps/documentation/android/
+OpenStreetMap Nominatim: http://wiki.openstreetmap.org/wiki/Nominatim#Reverse_Geocoding
