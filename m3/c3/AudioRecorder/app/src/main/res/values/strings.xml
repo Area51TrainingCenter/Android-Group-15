@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grabador de voz</string>
+    <string name="recording">Grabando&#8230;</string>
+    <string name="rec_error">Ha ocurrido un problema.</string>
+    <string name="ready">Listo para grabar</string>
+    <string name="rec">Grabar</string>
+    <string name="stop">Detener</string>
+
+</resources>
